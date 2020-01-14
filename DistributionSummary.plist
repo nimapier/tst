@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>未来社区建管平台.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>10FE1ECBDB7EEF68081AF1B0C9CEA8AC13A298CA</string>
+				<key>dateExpires</key>
+				<string>7/4/2022</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4THALV5GBE.com.ecidi.cloudpm.a</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4THALV5GBE</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>未来社区建管平台.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>995ec058-ee94-40e4-a8ac-90dc1cb4ada5</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ecidi.cloudpm.a</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4THALV5GBE</string>
+				<key>name</key>
+				<string>POWERCHINA HUADONG ENGINEERING CORPORATION LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
